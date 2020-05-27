@@ -19,7 +19,7 @@ The timeline of the program was:
 
 Each row in the data corresponds to an observation taken for a given child for a given year. There are two years of data (1997 and 1998), and just under 40,000 children who are surveyed in both years. For each child-year observation, the following variables are collected:
 year year in which data is collected
-sex male = 1
+sex male = 1 <br>
 indig indigenous = 1
 dist_sec nearest distance to a secondary school
 sc enrolled in school in year of survey (=1)
